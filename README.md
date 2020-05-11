@@ -17,7 +17,8 @@ This program requires .NET to be installed. It uses the MSTest tool to test poss
 
 ## Specs
 
-
+* Record a list of items with descritpions.
+  * Create Item object with a Description property.
 
 <!-- ## Known Bugs
 
