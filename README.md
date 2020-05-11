@@ -5,7 +5,7 @@
 
 ## Description
 
-This application will record items that hold descriptions.
+This application will record items that hold descriptions and put them into a list for use with MSTest.
 
 ## Setup/Installation Requirements
 
@@ -20,10 +20,11 @@ This program requires .NET to be installed. It uses the MSTest tool to test poss
 
 * Record a list of items with descritpions.
   * Create Item object with a Description property.
+  * Put those Item objects into a static List
 
-<!-- ## Known Bugs
+## Known Bugs
 
-No known bugs as of 5/11/2020 -->
+No known bugs as of 5/11/2020
 
 ## Technologies Used
 
