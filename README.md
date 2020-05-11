@@ -10,9 +10,10 @@ This application will record items that hold descriptions.
 ## Setup/Installation Requirements
 
 This program requires .NET to be installed. It uses the MSTest tool to test possible string inputs.
+
 * Clone this repository
-* Change any tests in Leetspeal.Tests/ModelTests/Leetspeak.cs
-* Navigate to the repo in command console. Then navigate to Leetspeak.Tests directory.
+* Change any tests in ToDoList.Tests/ModelTests/ItemTests.cs
+* Navigate to the repo in command console. Then navigate to ToDoList.Tests directory.
 * Run dotnet test
 
 ## Specs
