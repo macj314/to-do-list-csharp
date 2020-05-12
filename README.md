@@ -1,7 +1,7 @@
 # _Epicodus C# To Do List_
 
 #### Date: May 12th, 2020
-#### By _**Jason Macie**_
+#### By _**Jason Macie**_ & _**Nitun Datta**_
 
 ## Description
 
@@ -41,4 +41,4 @@ No known bugs as of 5/12/2020
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2020 **_Jason Macie_**
+Copyright (c) 2020 **_Jason Macie, Nitun datta_**
