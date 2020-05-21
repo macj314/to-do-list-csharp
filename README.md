@@ -1,44 +1,46 @@
 # _Epicodus C# To Do List_
 
-#### Date: May 12th, 2020
+#### Date: May 21st, 2020
 #### By _**Jason Macie**_ & _**Nitun Datta**_
+#### Version 2 Contributions By _**Jessica Hvozdovich**_
 
 ## Description
 
-This application will record items that hold descriptions and put them into a list for use with MSTest.
+This application will record items that hold descriptions and put them into a list for use with MVC.
 
 ## Setup/Installation Requirements
 
-This program requires .NET to be installed. It uses the MSTest tool to test possible string inputs.
-To Edit or run the tests:
+This program requires .NET to be installed. It uses the MSTest tool and MVC to test and organize.
 
-* Clone this repository.
-* Change any tests in ToDoList.Tests/ModelTests/ItemTests.cs
-* Navigate to the repo in command console. Then navigate to ToDoList.Tests directory.
-* Run dotnet test.
+1. Clone this repository
+2. Navigate to the repo in command console. Then navigate to ToDoList directory.
+3. Run dotnet restore
+4. Run dotnet build
+5. Run dotnet run
+6. Open page at localhost:5000
 
 ## Specs
 
-* Record a list of items with descritpions.
-  * Create Item object with a Description property.
-  * Put those Item objects into a static list.
-  * Create methods to display Item objects and clear them.
-* Print a welcome message to the user. Then ask them if they'd like to add an Item to their to do list, or view it.
-* Take in and handle one of three inputs from the user.
-  * 1. "add": add new item to list
-  * 2. "view": view current items inside of list
-  * 3. "quit": quit out of the application
+* Home page that offers the user the opportunity to create a new category or view all categories.
+* Prompt the user to create categories of to do list items with a form.
+* Prompt the user to create tasks that fall within each category with a form.
+* View all categories page where user can click on item details.
+* View item details page where user can click on item details.
+* Option to delete all items.
 
 ## Known Bugs
 
-No known bugs as of 5/12/2020
+No known bugs as of 5/21/2020
 
 ## Technologies Used
 
-* .NET
+C#</br>
+MSBuild</br>
+ASP.Net Core</br>
+MVC
 
 ### License
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2020 **_Jason Macie, Nitun datta_**
+Copyright (c) 2020 **_Jason Macie, Nitun datta, Jessica Hvozdovich_**
