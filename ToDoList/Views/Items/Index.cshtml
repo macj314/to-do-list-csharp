@@ -1,3 +1,4 @@
+  
 @{
   Layout = "_Layout";
 }
@@ -14,7 +15,9 @@
 
 @foreach (Item item in Model)
 {
-  <li>@Html.ActionLink($"{item.Description}", "Details", new { id = item.ItemId })</li>
+  <li>@Html.ActionLink($"{item.Description}", "Details", new { id = item.ItemId }) | @item.Category.Name</li>
 }
 
 <p>@Html.ActionLink("Add new item", "Create")</p>
+
+<p>@Html.ActionLink("Home", "Index", "Home")</p>
