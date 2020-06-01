@@ -19,6 +19,10 @@ else
   @foreach(var join in Model.Items)
   {
     <li>@join.Item.Description</li>
+    if (@join.Item.Completion == true)
+    {
+      <p>Completed!</p>
+    }
   }
   </ul>
 }
