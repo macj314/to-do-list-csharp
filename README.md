@@ -1,8 +1,9 @@
 # _Epicodus C# To Do List_
 
-#### Date: May 21st, 2020
+#### Date: Jun 1st, 2020
 #### By _**Jason Macie**_ & _**Nitun Datta**_
 #### Version 2 Contributions By _**Jessica Hvozdovich**_
+#### Version 3 Contributuins By _**Sahab Khan_**
 
 ## Description
 
@@ -30,14 +31,16 @@ This program requires .NET to be installed. It uses the MSTest tool and MVC to t
 
 ## Known Bugs
 
-No known bugs as of 5/21/2020
+No known bugs as of 6/1/2020
 
 ## Technologies Used
 
 C#</br>
 MSBuild</br>
 ASP.Net Core</br>
-MVC
+MVC</br>
+Entity Framework Core</br>
+MySQL
 
 ### License
 
