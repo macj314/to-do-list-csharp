@@ -3,7 +3,7 @@
 #### Date: Jun 1st, 2020
 #### By _**Jason Macie**_ & _**Nitun Datta**_
 #### Version 2 Contributions By _**Jessica Hvozdovich**_
-#### Version 3 Contributuins By _**Sahab Khan_**
+#### Version 3 Contributions By _**Sahab Khan**_
 
 ## Description
 
@@ -46,4 +46,4 @@ MySQL
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2020 **_Jason Macie, Nitun datta, Jessica Hvozdovich_**
+Copyright (c) 2020 **_Jason Macie, Nitun datta, Jessica Hvozdovich, Sahab Khan_**
